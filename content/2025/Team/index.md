@@ -40,7 +40,7 @@ Saadhana 2025 was our biggest festival yet, and bringing it to life meant an imm
 **Framework**: [Blowfish](https://blowfish.page)
 
 ### Volunteers
-**Ushers**: Aparna, Nitin, Nikhil, Payal, Saumya and Shikha<br />
+**Ushers**: Aparna, Nikhil, Nitin, Payal, Saumya and Shikha<br />
 **Backup**: Bhaskar, Yaduraj
 
 
