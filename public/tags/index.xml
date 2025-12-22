@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Saadhana 2025, by Shreyasi Gopinath Dance Academy</title>
-    <link>http://100.101.252.59:1313/tags/</link>
+    <link>http://192.168.0.247:1313/tags/</link>
     <description>Recent content in Tags on Saadhana 2025, by Shreyasi Gopinath Dance Academy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>[**Shreyasi Gopinath Dance Academy**](https://shreyasigopinath.com) © 2025, and [**Crafted at Scale**](https://instagram.com/craftedatscale).</copyright>
-    <atom:link href="http://100.101.252.59:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://192.168.0.247:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>

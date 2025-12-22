@@ -3,145 +3,145 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>http://100.101.252.59:1313/2025/festival/</loc>
+    <loc>http://192.168.0.247:1313/2025/festival/</loc>
     <lastmod>2025-05-22T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://100.101.252.59:1313/2025/performances/</loc>
+    <loc>http://192.168.0.247:1313/2025/performances/</loc>
     <lastmod>2025-05-22T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://100.101.252.59:1313/2025/sponsors/</loc>
+    <loc>http://192.168.0.247:1313/2025/sponsors/</loc>
     <lastmod>2025-05-22T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://100.101.252.59:1313/2025/founder/</loc>
+    <loc>http://192.168.0.247:1313/2025/founder/</loc>
     <lastmod>2025-05-22T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://100.101.252.59:1313/2025/accompanists/</loc>
+    <loc>http://192.168.0.247:1313/2025/accompanists/</loc>
     <lastmod>2025-05-22T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://100.101.252.59:1313/2025/team/</loc>
+    <loc>http://192.168.0.247:1313/2025/team/</loc>
     <lastmod>2025-05-22T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://100.101.252.59:1313/2025/our_students/</loc>
+    <loc>http://192.168.0.247:1313/2025/our_students/</loc>
     <lastmod>2025-05-22T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://100.101.252.59:1313/2025/guest_artists/</loc>
+    <loc>http://192.168.0.247:1313/2025/guest_artists/</loc>
     <lastmod>2025-05-22T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://100.101.252.59:1313/2025/nottuswaram/</loc>
+    <loc>http://192.168.0.247:1313/2025/nottuswaram/</loc>
     <lastmod>2025-05-22T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://100.101.252.59:1313/2025/hanuman_chalisa/</loc>
+    <loc>http://192.168.0.247:1313/2025/hanuman_chalisa/</loc>
     <lastmod>2025-05-22T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://100.101.252.59:1313/2025/pushpanjali/</loc>
+    <loc>http://192.168.0.247:1313/2025/pushpanjali/</loc>
     <lastmod>2025-05-22T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://100.101.252.59:1313/2025/tunga_tarange_gange/</loc>
+    <loc>http://192.168.0.247:1313/2025/tunga_tarange_gange/</loc>
     <lastmod>2025-05-22T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://100.101.252.59:1313/2025/ganesha_pancharatnam/</loc>
+    <loc>http://192.168.0.247:1313/2025/ganesha_pancharatnam/</loc>
     <lastmod>2025-05-22T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://100.101.252.59:1313/2025/dashavataram/</loc>
+    <loc>http://192.168.0.247:1313/2025/dashavataram/</loc>
     <lastmod>2025-05-22T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://100.101.252.59:1313/2025/kavadi_murugan/</loc>
+    <loc>http://192.168.0.247:1313/2025/kavadi_murugan/</loc>
     <lastmod>2025-05-22T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://100.101.252.59:1313/2025/thillana/</loc>
+    <loc>http://192.168.0.247:1313/2025/thillana/</loc>
     <lastmod>2025-05-22T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://100.101.252.59:1313/2025/meera_bhajan/</loc>
+    <loc>http://192.168.0.247:1313/2025/meera_bhajan/</loc>
     <lastmod>2025-05-22T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://100.101.252.59:1313/2025/varnam/</loc>
+    <loc>http://192.168.0.247:1313/2025/varnam/</loc>
     <lastmod>2025-05-22T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://100.101.252.59:1313/2025/swagatam_krishna/</loc>
+    <loc>http://192.168.0.247:1313/2025/swagatam_krishna/</loc>
     <lastmod>2025-05-22T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://100.101.252.59:1313/2025/behindthescenes/</loc>
+    <loc>http://192.168.0.247:1313/2025/behindthescenes/</loc>
     <lastmod>2025-05-22T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://100.101.252.59:1313/2025/nrityashri_alaknanda_and_nandini_khattar/</loc>
+    <loc>http://192.168.0.247:1313/2025/nrityashri_alaknanda_and_nandini_khattar/</loc>
     <lastmod>2025-05-22T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://100.101.252.59:1313/2025/santosh_nair_sudhir_kumar_and_himesh_parcha/</loc>
+    <loc>http://192.168.0.247:1313/2025/santosh_nair_sudhir_kumar_and_himesh_parcha/</loc>
     <lastmod>2025-05-22T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://100.101.252.59:1313/2025/</loc>
+    <loc>http://192.168.0.247:1313/2025/</loc>
     <lastmod>2025-05-22T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://100.101.252.59:1313/</loc>
+    <loc>http://192.168.0.247:1313/</loc>
     <lastmod>2025-05-22T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
